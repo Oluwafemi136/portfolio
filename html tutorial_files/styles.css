@@ -1,0 +1,12 @@
+.main {
+    margin-top: 100px;
+}
+.pic-img {
+    display: block;
+    
+    width: 300px; 
+}
+.text-input {
+    display: block;
+    width: 400px;
+}
